@@ -1,0 +1,42 @@
+[
+    {
+        "_id": {
+            "$oid": "63272927269d8a54618a79b8"
+        },
+        "nombre": "Kevin",
+        "apellidos": "Maher",
+        "fecha_nacimiento": {
+            "$date": "1989-01-29"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63272927269d8a54618a79b9"
+        },
+        "nombre": "Luis",
+        "apellidos": "Martinez Martinez",
+        "fecha_nacimiento": {
+            "$date": "1971-02-01"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63272927269d8a54618a79b5"
+        },
+        "nombre": "Javier",
+        "apellidos": "Ocaña",
+        "fecha_nacimiento": {
+            "$date": "1981-01-07"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "63272927269d8a54618a79b2"
+        },
+        "nombre": "Robbie",
+        "apellidos": "Collin",
+        "fecha_nacimiento": {
+            "$date": "1990-12-24"
+        }
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "user_id": {
+            "$oid": "63272927269d8a54618a79b9"
+        },
+        "pelicula_id": 2,
+        "fecha": {
+            "$date": "2022-05-27T12:00:00"
+        },
+        "puntuacion": 10,
+        "review": "Un delirio de unas dimensiones tan acertadas, divertidas y, por momentos, memorables que no queda otra que rendirse. Cine físico, simple, ligeramente vulgar y muy disfrutable."
+    },
+    {
+        "user_id": {
+            "$oid": "63272927269d8a54618a79b8"
+        },
+        "pelicula_id": 2,
+        "fecha": {
+            "$date": "2022-05-27T09:13:00"
+        },
+        "puntuacion": 10,
+        "review": "Una secuela que supera a la original. Pocos relanzamientos de Hollywood pueden presumir de esta mezcla de nostalgia, frescura y adrenalina. Querrás chocar los cinco con alguien a la salida."
+    },
+    {
+        "user_id": {
+            "$oid": "63272927269d8a54618a79b5"
+        },
+        "pelicula_id": 2,
+        "fecha": {
+            "$date": "2022-05-27T08:13:00"
+        },
+        "puntuacion": 7,
+        "review": "Sigue siendo muy fácil disfrutar del encanto pícaro de Cruise, pero los constantes ecos de la película a la original solo afectan de forma intermitente, y los nuevos antagonistas no ofrecen muchos matices"
+    },
+    {
+        "user_id": {
+            "$oid": "63272927269d8a54618a79b2"
+        },
+        "pelicula_id": 3,
+        "fecha": {
+            "$date": "2022-05-27T22:15:00"
+        },
+        "puntuacion": 8,
+        "review": "Todo un éxito de la productora A24: costó 25 millones y recaudó 100, convirtiéndose en el mayor éxito internacional (a fecha de agosto 2022) de la compañía. Un logro en postpandemia y tras meses en cartelera enfrentándose a estrenos como 'Thor: Love and Thunder', 'Top Gun: Maverick' o 'Elvis'."
+    },
+    {
+        "user_id": {
+            "$oid": "63272927269d8a54618a79b5"
+        },
+        "pelicula_id": 3,
+        "fecha": {
+            "$date": "2022-05-27T08:13:00"
+        },
+        "puntuacion": 9,
+        "review": "La vi dos veces simplemente para asegurarme de que la primera no estaba alucinando completamente y la veré pronto por tercera vez, por la misma razón"
+    },
+    {
+        "user_id": {
+            "$oid": "63272927269d8a54618a79b2"
+        },
+        "pelicula_id": 3,
+        "fecha": {
+            "$date": "2022-05-27T08:13:00"
+        },
+        "puntuacion": 7,
+        "review": "Es demencialmente imaginativa y a menudo, muy divertida. Pero con sus más de dos horas, acaba siendo implacable y tediosa"
+    },
+    {
+        "user_id": {
+            "$oid": "63272927269d8a54618a79b8"
+        },
+        "pelicula_id": 3,
+        "fecha": {
+            "$date": "2022-05-27T08:13:00"
+        },
+        "puntuacion": 8,
+        "review": "El resultado es un lío, pero es un lío meticulosamente planeado y ejecutado, en el que cada escena, cada efecto de sonido y cada gag visual encaja exactamente en lo que pretenden los Daniels"
+    },
+    {
+        "user_id": {
+            "$oid": "63272927269d8a54618a79b9"
+        },
+        "pelicula_id": 3,
+        "fecha": {
+            "$date": "2022-05-27T08:13:00"
+        },
+        "puntuacion": 8,
+        "review": "A menudo, es un poco desesperante, y los actores, en particular la inagotable Yeoh, hacen gran parte del trabajo para fundamentar lo que a veces parece una historia codificada cuya clave secreta no se ha compartido"
+    }
+]

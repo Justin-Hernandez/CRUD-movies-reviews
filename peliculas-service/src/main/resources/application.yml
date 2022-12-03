@@ -1,0 +1,31 @@
+micronaut:
+  application:
+    name: peliculas-service
+
+  server:
+    netty:
+      parent:
+        event-loop-group: single-thread
+      worker:
+        event-loop-group: single-thread
+  netty:
+    event-loops:
+      single-thread:
+        num-threads: 1
+
+jpa:
+  default:
+    entity-scan:
+      packages:
+        - 'com.uah.domain'
+    properties:
+      hibernate:
+        show-sql: true
+        hbm2ddl:
+          auto: update
+        connection:
+          url: 'jdbc:postgresql://localhost:5432/peliculas_db'
+          username: 'peliculas_service'
+          password: 'peliculas_service'
+    reactive: true
+

@@ -1,0 +1,16 @@
+micronaut:
+  application:
+    name: reviews-service
+
+  server:
+    netty:
+      parent:
+        event-loop-group: single-thread
+      worker:
+        event-loop-group: single-thread
+  netty:
+    event-loops:
+      single-thread:
+        num-threads: 1
+
+mongodb.uri: mongodb://admin:admin@localhost:27017/reviews_db?authSource=admin
